@@ -31,3 +31,15 @@ section{
      background-image: url(images/top-banner.png);
      background-repeat: no-repeat;
  }
+ section{
+     display: flex;
+     margin-bottom: 100px;
+ }
+ .dream{
+     background-image: url(images/dream-bg.png);
+     background-repeat: no-repeat;
+     background-position: right;
+ }
+ .p{
+     padding-right: 20px;
+ }
