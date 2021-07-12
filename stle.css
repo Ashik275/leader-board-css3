@@ -33,9 +33,9 @@ h2{
      background-repeat: no-repeat;
  }
  .flexi{
-     display: flex;
-     margin-bottom: 100px;
- }
+    display: flex;
+    margin-bottom: 100px;
+}
  .dream{
      background-image: url(images/dream-bg.png);
      background-repeat: no-repeat;
